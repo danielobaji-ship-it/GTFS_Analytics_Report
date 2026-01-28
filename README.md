@@ -63,13 +63,7 @@ The analysis revealed five distinct customer segments
 
 **Conclusion**
 
-Conducted a transit data analysis project using GTFS (General Transit Feed Specification) schedule files from York Region Transit (YRT) and Brampton Transit. 
-
-Worked independently for two months, applying data preprocessing techniques, visualising key features, and investigating service patterns across stops, routes, and trips. 
-
-Utilised SQL to extract high-impact segments and identify peak-hour performance. 
-
-Developed visualisations to clearly present comparative insights across both systems. The goal is to identify actionable opportunities that align rider needs with operational realities
+Conducted a transit data analysis project using GTFS (General Transit Feed Specification) schedule files from York Region Transit (YRT) and Brampton Transit. Worked independently for two months, applying data preprocessing techniques, visualising key features, and investigating service patterns across stops, routes, and trips. Utilised SQL to extract high-impact segments and identify peak-hour performance. Developed visualisations to clearly present comparative insights across both systems. The goal is to identify actionable opportunities that align rider needs with operational realities
 
 ---
 
