@@ -57,7 +57,7 @@ The analysis revealed five distinct customer segments
 2. From November 2025 to December 2025, Brampton Transit recorded **1,048,575** total arrivals across **73 distinct routes** and over **2,900 distinct stops.**
 3. **Frequency Increases:** Analysis highlights that Route 107 stops consistently rank in the Top 20 for frequency, with heavy transfer activity concentrated at the Keele and Jane nodes.
 4. **Strong service intensity:** Route 107 demonstrates a strong overall service span, ranking second among YRT bus routes in our analysis, indicating effective all-day and late-evening coverage along the Keele corridor.
-- **Qualitative data:** Community feedback indicates a desire for “improved service span,” which may not reflect deficiencies in the main Route 107 service but could instead point to unmet demand for faster, limited-stop service outside peak periods and the creation of a much-needed "last-mile" link to GO Transit rail services.
+5. **Qualitative data:** Community feedback indicates a desire for “improved service span,” which may not reflect deficiencies in the main Route 107 service but could instead point to unmet demand for faster, limited-stop service outside peak periods and the creation of a much-needed "last-mile" link to GO Transit rail services.
 
 ---
 
